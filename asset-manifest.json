@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reactice_Practice1/static/css/main.073c9b0a.css",
+    "main.js": "/Reactice_Practice1/static/js/main.9c904b8c.js",
+    "static/js/787.a5cad257.chunk.js": "/Reactice_Practice1/static/js/787.a5cad257.chunk.js",
+    "index.html": "/Reactice_Practice1/index.html",
+    "main.073c9b0a.css.map": "/Reactice_Practice1/static/css/main.073c9b0a.css.map",
+    "main.9c904b8c.js.map": "/Reactice_Practice1/static/js/main.9c904b8c.js.map",
+    "787.a5cad257.chunk.js.map": "/Reactice_Practice1/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9c904b8c.js"
+  ]
+}
